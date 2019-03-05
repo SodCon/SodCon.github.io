@@ -2,7 +2,6 @@
 		margin:0 auto;
 		text-align: center;
 		width: 1200px; /* total computed width */
-		height: 300px;
 		zoom: 1;
 	}
 
@@ -24,6 +23,7 @@
 		color: #333;
 		padding: 0px;
 		width: 180px;
+		height: 300px;
 		float: left;
 		_display: inline; /* IE6 double margin fix */
 		position: relative;
