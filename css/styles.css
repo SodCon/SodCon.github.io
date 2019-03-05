@@ -21,7 +21,7 @@
 		background: #fff;      
 		border: 1px solid #ddd;
 		color: #333;
-		padding: 20px;
+		padding: 0px;
 		width: 180px;
 		float: left;
 		_display: inline; /* IE6 double margin fix */
@@ -58,7 +58,7 @@
 		font-size: 20px;
 		font-weight: normal;
 		text-transform: uppercase;
-		padding: 40px;
+		padding: 0px;
 		margin: -20px -20px 20px -20px;
 		border-bottom: 8px solid;
 		background-color: #eee;
@@ -75,7 +75,6 @@
 		bottom: -8px; left: 0;
 		height: 3px; width: 100%;
 		content: '';
-		background-image: url(images/bar.png);
 	}
 
 	#fdw-pricing-table .plan1 .header{
