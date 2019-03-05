@@ -1,2 +1,2 @@
-# aablunch.github.io
+# SodCon.github.io
 Lunchmeny ÅAB
